@@ -3,5 +3,6 @@
 using namespace std;
 
 int main(){
-    cout<<"helloworld"<<endl;
+    cout<<"helloworld"<<endl; 
+    cout<<"second"<<endl;
 }
